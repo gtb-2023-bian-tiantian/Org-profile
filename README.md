@@ -12,4 +12,4 @@
 >#### Some photos about myself
 >>This is me in NWPU.
 >>
->>![my-photo-in-NWPU](assets/NWPU.jpg "NWPU")
+>>![my-photo-in-NWPU](./assets/NWPU.jpg "NWPU")
